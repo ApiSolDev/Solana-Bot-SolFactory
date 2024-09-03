@@ -1,4 +1,4 @@
-<h1  align="center"> SolanaFactory 🏭 Smart Crypto Trading Bot </h1>
+<h1  align="center"> SolanaFactory 🏭 Solana Volume Bot </h1>
 
 Solana Bot includes a token sniper, autotrade, and integration with Raydium and PUMP.FUN. It replaces BonkBot and Unibot, providing tools for managing crypto wallets and trading. Key features: solana copy trading, solana volume bot, solana-sniping-bot. The best solana trading bot for all your needs
 
